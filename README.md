@@ -1,1 +1,2 @@
 # madmax
+its amazing
