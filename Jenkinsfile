@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('cicd') {
             steps {
-                echo 'Building..'
+                free -m;df -h;echo 3
             }
         }
         stage('Test') {
