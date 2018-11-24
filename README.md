@@ -1,5 +1,6 @@
 # madmax
-its amazing
+its an amazing day!
+:)
 
 ole !!
 =======
